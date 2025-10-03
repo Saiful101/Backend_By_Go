@@ -1,4 +1,4 @@
-/* package main
+package main
 
 import (
 	"encoding/json"
@@ -81,4 +81,3 @@ func main() {
 		fmt.Print("Error starting the server", err)
 	}
 }
-*/
